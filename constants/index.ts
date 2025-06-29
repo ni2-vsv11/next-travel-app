@@ -62,7 +62,7 @@ export const FOOTER_LINKS = [
   },
   {
     title: 'Our Community',
-    links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+    links: ['Ni2 Trecking Org', 'Hiking hilink', 'Hilink kinthill'],
   },
 ];
 
