@@ -1,4 +1,4 @@
-
+ 
 # 🌍 Next Travel App
 
 **Next Travel App** is a *Next.js + Tailwind CSS + TypeScript* powered travel app designed to help users explore destinations, plan trips, and enjoy a smooth booking experience.
